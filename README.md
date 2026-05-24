@@ -1,9 +1,7 @@
-# j-fokus
-My personal automated Pomodoro timer. 25min focus · 7min break · 21min long break · 7AM to 7PM daily.
 
 # J Fokus — Automated Focus Timer
 
-> *Focus like you mean it. One token at a time.*
+> *Focus like you mean it. One cycle at a time.*
 
 ## What is J Fokus?
 
