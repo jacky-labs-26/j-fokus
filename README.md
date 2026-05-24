@@ -3,8 +3,6 @@
 
 ![J Fokus Logo](JFokus_logo.PNG)
 
-> *Focus like you mean it. One cycle at a time.*
-
 ## What is J Fokus?
 
 J Fokus is a personal automated Pomodoro timer built to solve a simple problem:
