@@ -1,9 +1,9 @@
 
-# J Fokus — Automated Focus Timer
+# J'Fokus — Automated Focus Timer
 
 ![J Fokus Logo](JFokus_logo.PNG)
 
-## What is J Fokus?
+## What is J'Fokus?
 
 J Fokus is a personal automated Pomodoro timer built to solve a simple problem:
 existing Pomodoro apps don't let you fully customize and automate your entire focus day.
@@ -61,7 +61,7 @@ A focus tool that works the way your brain actually works.
 
 ## Personal note
 
-J Fokus was born from frustration — I couldn't find a Pomodoro app
+J'Fokus was born from frustration — I couldn't find a Pomodoro app
 that automated my exact rhythm. So I decided to build it myself.
 
 *J = Je focus. Jazda fokus. Jacky fokus.*
