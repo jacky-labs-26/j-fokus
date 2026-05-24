@@ -2,6 +2,8 @@
 # J Fokus — Automated Focus Timer
 
 > *Focus like you mean it. One cycle at a time.*
+>
+> ![J Fokus Logo](JFokus_logo.PNG)
 
 ## What is J Fokus?
 
