@@ -44,6 +44,22 @@ And the best part? You set it up your way. You define the rhythm that works for 
 - distraction-free design
 - built for sustainable human energy... not hustle mode
 
+## Sound and music
+
+J'Fokus supports audio for both focus sessions and transitions. Two options planned:
+
+**Option 1: Local audio files (v0.1)**
+- Play background sound or music during focus sessions
+- Audio alerts at each transition (break start, focus start, long break)
+- Default options included out of the box
+- Add your own files anytime by dropping them in the `/sounds` folder
+- Works offline, no setup needed
+
+**Option 2: Spotify integration (v0.2)**
+- Trigger a playlist or track from your Spotify library during focus or break
+- Requires an active Spotify account and Spotify installed on your device
+- First time setup: a quick one-time login to connect your Spotify to J'Fokus
+
 ## Current stage
 
 - concept definition
