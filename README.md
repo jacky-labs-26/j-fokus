@@ -77,10 +77,26 @@ J'Fokus supports audio for both focus sessions and transitions. Two options plan
 
 A focus tool that works the way your brain actually works. Not max output. Sustainable output.
 
+## Philosophy
+
+J'Fokus is not about doing every session perfectly.
+It's about showing up to the next one.
+
+The cycle runs. You follow when you can. You rest when you need to.
+The timer doesn't judge. It just waits for you.
+
+And on the days you do follow it fully? You might surprise yourself.
+No planning, no motivating, no guessing what's next.
+Just cycle after cycle quietly adding up.
+
+Consistency > perfection. Every time.
+
 ## Personal note
 
 J'Fokus was born from frustration and from learning the hard way that productivity without rhythm leads to burnout.
 I couldn't find a Pomodoro app that automated my exact rhythm and still let me stay in control of it.
 So I decided to build it myself.
+
+Not to do more. To do better. Sustainably.
 
 *J = Je focus. Jazda fokus. Jacky fokus.*
