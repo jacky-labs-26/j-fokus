@@ -1,4 +1,4 @@
-# J'Fokus — Sustainable Automated Focus Timer
+# J'Fokus | Sustainable Automated Focus Timer
 
 ![J Fokus Logo](JFokus_logo.PNG)
 
