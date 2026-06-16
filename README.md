@@ -1,6 +1,8 @@
 # J'Fokus | Sustainable Automated Focus Timer
 
-![J Fokus Logo](JFokus_logo.PNG)
+<p align="center">
+  <img src="JFokus_logo.PNG" alt="JFokus Logo" width="250"/>
+</p>
 
 ## What is J'Fokus?
 
