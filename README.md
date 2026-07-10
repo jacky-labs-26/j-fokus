@@ -113,6 +113,6 @@ problems become tools:
 - [ARC](https://github.com/jacky-labs-26/arc-anonymous-return-channel) | anonymous callback channel for masked numbers
 - [Kinga](https://github.com/jacky-labs-26/kinga-ethical-blocker) | smart blocker for unsolicited calls
 - [i-SAFE](https://github.com/jacky-labs-26/i-safe) | universal, accessible backup
-- [Red Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
+- [RED Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
 
 → [Explore all JLabs projects](https://github.com/jacky-labs-26)
