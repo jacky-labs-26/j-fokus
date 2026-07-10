@@ -102,3 +102,17 @@ So I decided to build it myself.
 Not to do more. To do better. Sustainably.
 
 *J = Je focus. Jazda fokus. Jacky fokus.*
+
+---
+
+## About JLabs
+
+J'Fokus is part of **JLabs (j-labo)** — my personal lab where real-life 
+problems become tools:
+
+- [ARC](https://github.com/jacky-labs-26/arc) — anonymous callback channel for masked numbers
+- [Kinga](https://github.com/jacky-labs-26/kinga) — smart blocker for unsolicited calls
+- [i-SAFE](https://github.com/jacky-labs-26/i-safe) — universal, accessible backup
+- [Red Ping](https://github.com/jacky-labs-26/red-ping) — mission location for humanitarian volunteers
+
+→ [Explore all JLabs projects](https://github.com/jacky-labs-26)
